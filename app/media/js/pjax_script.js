@@ -1,0 +1,1 @@
+$("a").pjax({ container: "#main" });
