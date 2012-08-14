@@ -1,0 +1,1 @@
+"Small Simple Framework" (SSF) Is a lightweight framework for PHP which is still in development. Some features included (remember it is still in development) are: MVC, Form and Data Validations, AJAX Browsing (PJAX) and Some helper functions. Still to come: Simple ORM, Router, Plugins, Caching and a CRUD generator!
